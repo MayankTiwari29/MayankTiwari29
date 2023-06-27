@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayankTiwari29
-- 👀 I’m interested in Delhi, India 
+- 👀 I’m residing in Delhi, India 
 - 🌱 I’m currently learning Data Science with Python 
 
 <!---
